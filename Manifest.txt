@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/merb_bot_test
+lib/merb_bot_test.rb
+test/test_merb_bot_test.rb
